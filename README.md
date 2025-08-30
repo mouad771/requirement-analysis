@@ -9,3 +9,9 @@ Clearly identifies what the software should and shouldn’t do, preventing scope
 Detects potential problems early, saving time and resources.
 3. Improves Communication
 Aligns stakeholders, developers, and testers on objectives and priorities.
+# Key Activities in Requirement Analysis.
+• Requirement Gathering – Collect information about stakeholder needs using interviews, surveys, and observations to capture all necessary requirements.
+• Requirement Elicitation – Refine and uncover hidden requirements through discussions, brainstorming, workshops, and prototyping to fully understand expectations.
+• Requirement Documentation – Record requirements in structured documents like SRS or use case documents to provide a reference for the team.
+• Requirement Analysis and Modeling – Analyze requirements for feasibility, consistency, and completeness, and use models (UML diagrams, flowcharts) to visualize system behavior.
+• Requirement Validation – Verify that requirements accurately reflect stakeholder needs and are complete, correct, and testable through reviews, walkthroughs, and prototyping.
