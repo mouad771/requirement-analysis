@@ -15,3 +15,11 @@ Aligns stakeholders, developers, and testers on objectives and priorities.
 • Requirement Documentation – Record requirements in structured documents like SRS or use case documents to provide a reference for the team.
 • Requirement Analysis and Modeling – Analyze requirements for feasibility, consistency, and completeness, and use models (UML diagrams, flowcharts) to visualize system behavior.
 • Requirement Validation – Verify that requirements accurately reflect stakeholder needs and are complete, correct, and testable through reviews, walkthroughs, and prototyping.
+# Types of Requirements.
+**Functional Requirements:** 
+Examples for Booking Management System:
+- Users can register and log in to their accounts. 
+**Non-functional Requirements:**
+Examples for Booking Management System:
+- Performance: Page loads within 2 seconds for smooth user experience.
+
