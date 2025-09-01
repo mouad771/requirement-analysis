@@ -26,4 +26,4 @@ Examples for Booking Management System:
 A Use Case Diagram is a type of diagram in Unified Modeling Language (UML) that visually represents the interactions between actors (users or external systems) and the system itself, showing what the system is supposed to do from the user’s perspective.
 Use case diagrams help clarify requirements in a simple visual way, give a user-centered view, define system boundaries, and improve communication between stakeholders. They also simplify complex systems and provide a solid basis for documentation and testing.
 
-![Use Case Diagram](image/alx-booking-uc.png)
+![Use Case Diagram](alx-booking-uc.png/alx-booking-uc.png)
