@@ -22,4 +22,7 @@ Examples for Booking Management System:
 **Non-functional Requirements:**
 Examples for Booking Management System:
 - Performance: Page loads within 2 seconds for smooth user experience.
-
+# Use Case Diagrams.
+A Use Case Diagram is a type of diagram in Unified Modeling Language (UML) that visually represents the interactions between actors (users or external systems) and the system itself, showing what the system is supposed to do from the user’s perspective.
+Use case diagrams help clarify requirements in a simple visual way, give a user-centered view, define system boundaries, and improve communication between stakeholders. They also simplify complex systems and provide a solid basis for documentation and testing.
+(images/alxBookingSystem.png)
