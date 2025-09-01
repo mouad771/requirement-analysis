@@ -25,5 +25,13 @@ Examples for Booking Management System:
 # Use Case Diagrams.
 A Use Case Diagram is a type of diagram in Unified Modeling Language (UML) that visually represents the interactions between actors (users or external systems) and the system itself, showing what the system is supposed to do from the user’s perspective.
 Use case diagrams help clarify requirements in a simple visual way, give a user-centered view, define system boundaries, and improve communication between stakeholders. They also simplify complex systems and provide a solid basis for documentation and testing.
-
 ![Use Case Diagram](images/alx-booking-uc.png)
+# Acceptance Criteria.
+Acceptance criteria define clear conditions a product must meet, guiding development, enabling testing, and ensuring stakeholder expectations are met while preventing misunderstandings and scope creep.
+Feature Checkout:
+Acceptance Criteria:
+•The user can view a summary of selected bookings before payment.
+•The system accepts valid payment methods (credit card, PayPal).
+•Payment processing must succeed only with valid payment details.
+•Upon successful payment, a confirmation receipt is displayed and emailed to the user.
+•The system prevents checkout if required booking information is missing.
